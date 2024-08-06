@@ -15,7 +15,7 @@ A simple to use Python tool to batch convert images between formats, including A
 2. Create a virtual environment ``python -m venv /path/to/environment``
 3. Activate the environment using the activation script for your OS in: ``/path/to/environment/Scripts/``
 4. Install the requirements: ``pip install -r /path/to/requirements.txt``
-5. Run ``BatImgCon.py --help`` for instructions on how to work the program.
+5. Run ``python BatImgCon.py --help`` for instructions on how to work the program.
 6. Congratulations, you have successfully installed and operated BatImgCon 🎉
 
 # 💬 Contributing & Issue reports
