@@ -1,7 +1,7 @@
 """
 A simple to use Python tool to batch convert images between formats, including AVIF.
 """
-# Batch Image Converter (BatImgCon) v1.0.0
+# Batch Image Converter (BatImgCon) v1.1.0
 
 # TODO
 # - Linux & MacOS support for priorities
@@ -129,5 +129,5 @@ def main(input_dir: str, input_format: str,
     richprint(f"Execution time: {round(time.time() - start_time)}s")
 
 if __name__ == "__main__":
-    richprint("Welcome to Batch Image Converter (BatImgCon) version 1.0.0")
+    richprint("Welcome to Batch Image Converter (BatImgCon) version 1.1.0")
     typer.run(main)
