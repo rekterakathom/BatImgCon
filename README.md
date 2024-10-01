@@ -13,10 +13,11 @@ A simple to use Python tool to batch convert images between formats, including A
 # 🔨 Installation
 1. Download the repository by cloning, using the [provided releases](https://github.com/rekterakathom/BatImgCon/releases) or [downloading the repo as a ZIP](https://github.com/rekterakathom/BatImgCon/archive/refs/heads/main.zip)
 2. Create a virtual environment ``python -m venv /path/to/environment``
-3. Activate the environment using the activation script for your OS in: ``/path/to/environment/Scripts/``
-4. Install the requirements: ``pip install -r /path/to/requirements.txt``
-5. Run ``python BatImgCon.py --help`` for instructions on how to work the program.
-6. Congratulations, you have successfully installed and operated BatImgCon 🎉
+3. Copy ``BatImgCon.py`` and ``requirements.txt`` into your venv ``/path/to/environment``
+4. Activate the environment using the activation script for your OS in: ``/path/to/environment/Scripts/``
+5. Install the requirements: ``pip install -r /path/to/requirements.txt``
+6. Run ``python BatImgCon.py --help`` for instructions on how to work the program.
+7. Congratulations, you have successfully installed and operated BatImgCon 🎉
 
 # 💬 Contributing & Issue reports
 All collaborative work, such as issue reports and pull requests, should be submitted to this GitHub repository in their provided sections.
